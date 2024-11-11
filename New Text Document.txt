@@ -1,3 +1,0 @@
-XGBoost (Extreme Gradient Boosting) is a powerful machine learning algorithm based on the gradient boosting framework, which builds an ensemble of decision trees in a sequential manner. It is known for its efficiency, flexibility, and high performance, especially with structured/tabular data.
-
-The provided code uses Principal Component Analysis (PCA) to reduce the dimensionality of the dataset while retaining 95% of its variance. It then trains an XGBoost classifier with hyperparameter tuning using GridSearchCV to optimize the model’s performance. The results are evaluated using accuracy, classification report, confusion matrix, and feature importance.
